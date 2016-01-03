@@ -6,7 +6,7 @@ int main(){
 
 	char operater;
 
-	printf("please enter a expression");
+	printf("please enter a expression ");
 	scanf("%d %c %d",&a, &operater, &b);
 
 	switch(operater){
@@ -25,7 +25,7 @@ int main(){
 			break;
 	}
 
-	printf("%d 입니다. \n",c);
+	printf("%d 입니다.zzddffddddggzz \n",c);
 	return 0;
 
 }
